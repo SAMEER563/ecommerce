@@ -21,7 +21,8 @@ const Navbar = () => {
   return (
     <div className="sticky top-0 z-10 py-2 px-10 flex gap-2 justify-between items-center bg-white max-sm:px-2">
       <Link href="/">
-        <Image src="/logo.png" alt="logo" width={130} height={100} />
+        {/* <Image src="/logo.png" alt="logo" width={130} height={100} /> */}
+        <h1 className="text-blue-600 text-8xl px-1 py-1 font-extrabold ">Ecommercy</h1>
       </Link>
 
       <div className="flex gap-4 text-base-bold max-lg:hidden">
