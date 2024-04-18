@@ -51,7 +51,7 @@ const ProductInfo = ({ productInfo }: { productInfo: ProductType }) => {
                 {color}
               </p>
             ))}
-          </div>
+          </div> 
         </div>
       )}
 
