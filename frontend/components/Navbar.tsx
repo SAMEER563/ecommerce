@@ -90,7 +90,7 @@ const Navbar = () => {
               href={user ? "/wishlist" : "/sign-in"}
               className="hover:text-red-1"
             >
-              Wishlist
+              Wishlist 
             </Link>
             <Link
               href={user ? "/orders" : "/sign-in"}
