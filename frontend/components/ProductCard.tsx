@@ -20,7 +20,7 @@ const ProductCard = ({ product, updateSignedInUser }: ProductCardProps ) => {
         alt="product"
         width={250}
         height={300}
-        className="h-[250px] rounded-lg object-cover"
+        className="h-[250px] rounded-lg object-cover" 
       />
       <div>
         <p className="text-base-bold">{product.title}</p>
