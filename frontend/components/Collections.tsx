@@ -23,7 +23,7 @@ const Collections = async () => {
                 className="rounded-lg cursor-pointer"
               />
             </Link>
-          ))}
+          ))} 
         </div>
       )}
     </div>
